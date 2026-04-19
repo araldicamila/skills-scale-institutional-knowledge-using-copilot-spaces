@@ -23,6 +23,17 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
 
+The **QA Lead** owns the test strategy and quality gate decisions. The **DevOps Engineer** maintains the CI/CD pipeline that runs automated checks. See [Roles & Personas](octoacme-roles-and-personas.md) for full role descriptions.
+
+### Quality Gates / QA Workflow Checklist
+- [ ] Unit tests written and passing for all new logic
+- [ ] Integration tests updated where applicable
+- [ ] Security scan passing in CI (no new high/critical findings)
+- [ ] End-to-end smoke tests executed for critical user flows
+- [ ] Manual QA completed for features requiring acceptance validation
+- [ ] QA Lead has reviewed test results and approved the Definition of Done
+- [ ] Defects triaged; any deferred items documented with owner and target date
+
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
