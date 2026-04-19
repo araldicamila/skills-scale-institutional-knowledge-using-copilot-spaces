@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+> **Role tip:** The **PM** owns the risk register. **Subject Matter Experts (SMEs)** should be consulted when assessing domain-specific risks. See [Roles & Personas](octoacme-roles-and-personas.md) for role definitions and the RACI hand-off summary.
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
