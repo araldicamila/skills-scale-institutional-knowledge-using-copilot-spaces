@@ -225,12 +225,12 @@ Subject Matter Experts provide deep domain knowledge—technical, regulatory, or
 
 ## Responsibilities & Hand-offs (RACI Summary)
 
-The table below summarises primary responsibilities across key project activities. Use it to clarify ownership and reduce ambiguity at hand-off points.
+The table below summarizes primary responsibilities across key project activities. Use it to clarify ownership and reduce ambiguity at hand-off points.
 
 | Activity | PM | PdM | Developer | Release Manager | UX Designer | DevOps Engineer | QA Lead | SME |
 |---|---|---|---|---|---|---|---|---|
 | Project planning & scheduling | **R/A** | C | C | I | I | I | I | C |
-| Backlog prioritisation | C | **R/A** | C | I | C | I | I | C |
+| Backlog prioritization | C | **R/A** | C | I | C | I | I | C |
 | Feature design & specs | I | A | C | I | **R** | I | C | C |
 | Implementation & code review | I | I | **R/A** | I | C | C | C | I |
 | CI/CD pipeline & environments | I | I | C | C | I | **R/A** | I | I |
